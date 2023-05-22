@@ -14,9 +14,9 @@
 </div>
 <h1></h1>
 
-- :telescope: I’m working as a ... and contributing to backend for building web applications.
+- :telescope: I'm currently studying as a Java backend developer, focusing on building the backend components of web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :fire: I aspire to master the art of developing scalable and dependable solutions.
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
