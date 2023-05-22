@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="150"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/chudnovskyi/">
@@ -12,10 +12,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lwantPizza&style=flat-square&color=blue" align="center"/>
 </div>
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<h1></h1>
 
 - :telescope: I’m working as a ... and contributing to backend for building web applications.
 
@@ -32,8 +29,8 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/353874/hibernate.svg" title="Hibernate" alt="Hibernate" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/353874/hibernate.svg" title="Hibernate" alt="Hibernate" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/452192/docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
@@ -41,9 +38,24 @@
   <img src="https://www.svgrepo.com/show/373829/maven.svg" title="Maven"  alt="Maven" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="Gradle"  alt="Gradle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" title="Bash" **alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/353906/intellij-idea.svg" title="Intellij" alt="Intellij" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" title="Eclipse" alt="Eclipse" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" title="Eclipse" alt="Eclipse" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" title="Bash" **alt="Bash" width="40" height="40"/>
+</div>
+
+
+### :timer_clock: Technologies I'm Looking Forward to Learning Soon :
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/353951/kafka-icon.svg" title="Apache Kafka" alt="Apache Kafka" width="40" height="40"/>&nbsp;
+  <img src="https://iseif.dev/wp-content/uploads/2019/03/icon-spring-framework.png" title="Reactive Spring" alt="Reactive Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/341671/cassandra.svg" title="Cassandra" alt="Cassandra" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>
 </div>
 
 ---
