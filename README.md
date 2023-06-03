@@ -1,6 +1,6 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="150"/>
-</div>
+</div> -->
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/chudnovskyi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,9 +9,9 @@
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fl_want_pizza&logo=leetcode&logoColor=yellow" alt="Leetcode Badge"/>
   </a>
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lwantPizza&style=flat-square&color=blue" align="center"/>
-</div>
+</div> -->
 <h1></h1>
 
 - :telescope: I'm currently studying as a Java backend developer, focusing on building the backend components of web applications.
@@ -58,9 +58,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>
 </div>
 
----
+<!-- ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lwantPizza)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lwantPizza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://git.io/streak-stats" style="display: inline-block; margin-right: 10px;">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=lwantPizza" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwantPizza&layout=compact" alt="Top Languages" />
+  </a>
+</div> -->
