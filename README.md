@@ -5,12 +5,12 @@
   <a href="https://www.linkedin.com/in/chudnovskyi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://leetcode.com/l_want_pizza/">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fl_want_pizza&logo=leetcode&logoColor=yellow" alt="Leetcode Badge"/>
+  <a href="https://leetcode.com/chudnovskyi/">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fchudnovskyi&logo=leetcode&logoColor=yellow" alt="Leetcode Badge"/>
   </a>
 </div>
 <!-- <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lwantPizza&style=flat-square&color=blue" align="center"/>
+  <img src="https://komarev.com/ghpvc/?username=chudnovskyi&style=flat-square&color=blue" align="center"/>
 </div> -->
 <h1></h1>
 
@@ -63,9 +63,9 @@
 ### :fire: My Stats :
 <div>
   <a href="https://git.io/streak-stats" style="display: inline-block; margin-right: 10px;">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=lwantPizza" alt="GitHub Streak" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=chudnovskyi" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwantPizza&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chudnovskyi&layout=compact" alt="Top Languages" />
   </a>
 </div> -->
