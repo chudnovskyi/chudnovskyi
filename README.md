@@ -46,8 +46,10 @@
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" title="Scala" alt="Scala" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
   <img src="https://github.com/chudnovskyi/chudnovskyi/assets/114475465/4f542195-2744-43cd-bcba-0caf38b0b4af" title="Reactive" alt="Reactive" width="40" height="40"/>&nbsp;
+  <img src="https://seeklogo.com/images/A/akka-logo-24316F492F-seeklogo.com.png" title="Akka" alt="Akka" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" title="Bash" **alt="Bash" width="40" height="40"/>
 </div>
 
