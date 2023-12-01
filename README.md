@@ -18,7 +18,7 @@
 
 - :fire: My aspiration is to become proficient in crafting scalable and reliable solutions.
 
-- :zap: In my free time, I ~~solve problems on LeetCode,~~ read tech articles and master Scala 😄
+- :zap: In my free time, I ~~solve problems on LeetCode,~~ read tech articles/books, and exercising! 😄
 
 - :mailbox: Feel free to contact me! [![Linkedin Badge](https://img.shields.io/badge/-Viacheslav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chudnovskyi/)
 
