@@ -14,7 +14,7 @@
 </div> -->
 <h1></h1>
 
-- :telescope: I'm currently employed as a Junior Software Developer at [Tyntec](https://www.tyntec.com/), working within the billing/pricing team.
+- :telescope: I'm currently employed as a Software Developer at [Tyntec](https://www.tyntec.com/), working within the billing/pricing team.
 
 - :fire: My aspiration is to become proficient in crafting scalable and reliable solutions.
 
