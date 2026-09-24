@@ -43,6 +43,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/claude/D97757" title="Claude" alt="Claude" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/githubcopilot/black/white" title="GitHub Copilot" alt="GitHub Copilot" width="40" height="40"/>&nbsp;
+</div>
+
+### :seedling: Currently learning & working with :
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/apacheflink/E6526F" title="Apache Flink" alt="Apache Flink" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" title="Apache Spark" alt="Apache Spark" width="40" height="40"/>&nbsp;
 </div>
 
 <!-- ---
