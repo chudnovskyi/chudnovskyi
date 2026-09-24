@@ -18,6 +18,8 @@
 
 - :zap: Specialized in building scalable, event-driven backend systems with Java, Spring Boot and Apache Kafka.
 
+- :rocket: Built [ApplyW](https://chromewebstore.google.com/detail/applyw-linkedin-job-langu/imllbmbpfpgnibchclonahimmkjanjhp), an open-source Chrome extension that declutters LinkedIn Jobs: filter by language & keyword, hide viewed/applied jobs, and block companies ([source](https://github.com/ApplyW/extension)).
+
 - :briefcase: Previously at [tyntec](https://www.tyntec.com/), where I:
   - helped take a next-generation billing platform from development to production (**~17M events/day** across SMS, WhatsApp, Voice and 2FA, 1,200+ enterprise customers)
   - designed a real-time fraud detection & traffic control system, cutting response time to fraudulent traffic from days to **under an hour**
